@@ -1,10 +1,10 @@
 This is a simple command-line Tic Tac Toe game written in C. Two players take turns selecting positions on a 3x3 grid, aiming to align three marks (X or O) in a row, column, or diagonal to win.
 
 Features:-
-  Two-player gameplay
-  Checks for a winner or draw after every move
-  Ensures valid moves (prevents overwriting occupied positions)
-  Displays a formatted game grid
+  Two-player gameplay.
+  Checks for a winner or draw after every move.
+  Ensures valid moves (prevents overwriting occupied positions).
+  Displays a formatted game grid.
 
 How to Play:-
   Run the program in a terminal.
